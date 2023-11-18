@@ -21,7 +21,7 @@ This project is a Django web application that harnesses the power of Django Rest
 
 #### Installation Steps
 
-1. Clone the repository: git clone [https://github.com/abdullahmujahidali/Django]
+1. Clone the repository: git clone https://github.com/abdullahmujahidali/Django
 2. Activate the virtual environment: source venv/bin/activate
 3. Install dependencies: pip install -r requirements.txt
 4. Apply migrations: python manage.py migrate
